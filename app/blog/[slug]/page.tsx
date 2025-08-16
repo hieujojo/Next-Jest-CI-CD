@@ -14,5 +14,6 @@ export default function Page({ params }: Params) {
   <p>Jo-APP</p>
   <p>Hello World</p>
   <p>APP</p>
+  <p>Hi Im a student</p>
   </>;
 }
